@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="38" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Ground" tilewidth="16" tileheight="16">
+  <image source="../../../../Hämtningar/tilea4.png" width="512" height="480"/>
+ </tileset>
+ <layer name="Ground" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztlskJgDAABNOaRyMejXg04lGoKxjw40/IJOxjGJ8m44JVCKHOmEa0ohOLmDP2+JxjEH3GjudIfZ/u4R5EuwfL7sFyKT1W90DZ+2DZ+2DZ+2DZ+2C5lH3E7yr1fbqH90G0e7DsHiy7B8vuwXJJ/1cT4D7/6LGJ/cXx8UzlfsdTXOxXTjA=
+  </data>
+ </layer>
+ <layer name="Blocks" width="50" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt1skJgDAYROH8pbk04tKISyMuhToVGBDFCbwP5pQccnokJeBbVaRUa43Whu9ZTqf7vTZoY/ie5Uy6P2uLtobvWc6m+7t2aGf4ngF/cOpnSd19+pYcp36W1N2nbwH+4PSnLam7/HfvOf1p6S7cOLWV7nq1le4C33BqK931aivdBd5zARdB0Vk=
+  </data>
+ </layer>
+</map>
